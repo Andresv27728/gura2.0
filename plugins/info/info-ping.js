@@ -12,7 +12,7 @@ exports.default = {
       runtime += `${latensi.toFixed(4)} _Second_\n`
       runtime += `${oldd - neww} _miliseconds_\n\n`
       runtime += `🌐 Statistic Usage Network Bot :\n📤  Upload: ${Upload}\n📥  Download: ${Download}\n📂  Sessions: ${sessions}\n\n`
-      runtime += `🟢 Bot Aktif Selama :\n`
+      runtime += `🟢 Bot gawr gura :\n`
       runtime += `${muptime}\n`
       runtime += `${response}` 
       conn.reply(m.chat, runtime, m);
