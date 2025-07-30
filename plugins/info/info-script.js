@@ -5,7 +5,7 @@ exports.default = {
    start: (m, {
       conn
    }) => {
-      const script = 'Menggunakan Base Script Ini \n\nhttps://github.com/ruhend2001/maleficent'
+      const script = 'gura 2.0\n\nprivada'
       conn.adReply(m.chat, script, cover, m)
    }
 };
